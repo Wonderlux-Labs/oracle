@@ -1,0 +1,25 @@
+=> [32m#<Faye::Client:0x000055b4ea7022f0[0m
+ @advice[32m=[0m{[31m[1;31m"[0m[31mreconnect[1;31m"[0m[31m[0m=>[31m[1;31m"[0m[31mretry[1;31m"[0m[31m[0m, [31m[1;31m"[0m[31minterval[1;31m"[0m[31m[0m=>[1;35m0.0[0m, [31m[1;31m"[0m[31mtimeout[1;31m"[0m[31m[0m=>[1;35m60000.0[0m},
+ @channels[32m=[0m[32m#<Faye::Channel::Set:0x000055b4ea6e6708[0m @channels[32m=[0m{}[32m>[0m,
+ @dispatcher[32m=[0m
+  [32m#<Faye::Dispatcher:0x000055b4ea68b1c8[0m
+   @alternates[32m=[0m{},
+   @client[32m=[0m[32m#<Faye::Client:0x000055b4ea7022f0[0m ...[32m>[0m,
+   @cookies[32m=[0m[32m#<CookieJar::Jar:0x000055b4ea68a8e0[0m @domains[32m=[0m{}[32m>[0m,
+   @disabled[32m=[0m[],
+   @endpoint[32m=[0m[32m#<URI::HTTP http://localhost:9292/faye>[0m,
+   @envelopes[32m=[0m{},
+   @headers[32m=[0m{},
+   @listeners[32m=[0m{[31m[1;31m"[0m[31mmessage[1;31m"[0m[31m[0m=>[[32m#<Proc:0x000055b4ea5bda70 (lambda)>[0m]},
+   @max_request_size[32m=[0m[1;34m2048[0m,
+   @proxy[32m=[0m{},
+   @retry[32m=[0m[1;35m5.0[0m,
+   @scheduler[32m=[0m[1;34;4mFaye[0m::[1;34;4mScheduler[0m,
+   @state[32m=[0m[1;34m0[0m,
+   @timeout[32m=[0m[1;35m60.0[0m,
+   @transports[32m=[0m{},
+   @ws_extensions[32m=[0m[][32m>[0m,
+ @listeners[32m=[0m{},
+ @message_id[32m=[0m[1;34m0[0m,
+ @response_callbacks[32m=[0m{},
+ @state[32m=[0m[1;34m1[0m[32m>[0m
